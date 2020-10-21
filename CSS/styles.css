@@ -7,14 +7,6 @@ body {
   background-repeat: none;
 }
 
-.responsive {
-  width: device-width;
-  height: 20px;
-}
-.responsive1{
-  width: device-width;
-  height: 40px;
-}
 
 h1 {
   font-size: 5.7rem;
