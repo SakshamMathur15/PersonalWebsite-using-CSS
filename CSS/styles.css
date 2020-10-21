@@ -1,9 +1,19 @@
 body {
   text-align: center;
-  margin: 0;
+  margin-left: 0;
   font-family: 'Roboto', sans-serif;
-  line-height: normal;
   color: dimgrey;
+  padding: 0;
+  background-repeat: none;
+}
+
+.responsive {
+  width: 50%;
+  height: auto;
+}
+.responsive1{
+  width: 100%;
+  height: auto;
 }
 
 h1 {
@@ -69,11 +79,6 @@ hr {
   padding: 20px 0 16px;
 }
 
-.top-cloud {
-  position: absolute;
-  top: 50px;
-  left: 1500px;
-}
 
 .bottom-cloud {
   position: absolute;
