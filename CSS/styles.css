@@ -8,12 +8,12 @@ body {
 }
 
 .responsive {
-  width: 50%;
-  height: auto;
+  width: device-width;
+  height: 20px;
 }
 .responsive1{
-  width: 100%;
-  height: auto;
+  width: device-width;
+  height: 40px;
 }
 
 h1 {
