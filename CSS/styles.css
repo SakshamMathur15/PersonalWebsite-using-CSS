@@ -63,11 +63,13 @@ hr {
 .middle-container {
   background-color: white;
   padding: 10px 0;
+  width= 100%;
 }
 
 .bottom-container {
   background-color: cyan;
   padding: 20px 0 16px;
+  width= 100%;
 }
 
 .top-cloud {
