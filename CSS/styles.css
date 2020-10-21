@@ -1,12 +1,10 @@
 body {
   text-align: center;
-  margin-left: 0;
+  margin: 0;
   font-family: 'Roboto', sans-serif;
+  line-height: normal;
   color: dimgrey;
-  padding: 0;
-  background-repeat: none;
 }
-
 
 h1 {
   font-size: 5.7rem;
@@ -59,6 +57,7 @@ hr {
   background-color: cyan;
   position: relative;
   padding-top: 100px;
+  width: 100%;
 }
 
 .middle-container {
@@ -71,6 +70,11 @@ hr {
   padding: 20px 0 16px;
 }
 
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  left: 1500px;
+}
 
 .bottom-cloud {
   position: absolute;
